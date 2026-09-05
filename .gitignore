@@ -1,5 +1,5 @@
-node_modules/
 models/
 scripts/.venv/
-dist/
+__pycache__/
+*.pyc
 *.log
