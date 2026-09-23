@@ -1,5 +1,7 @@
-models/
+/models/
 scripts/.venv/
 __pycache__/
 *.pyc
 *.log
+.DS_Store
+tests/golden/
